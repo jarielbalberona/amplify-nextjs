@@ -1,0 +1,6 @@
+{
+  "name": "amplify-test",
+  "dependencies": {
+    "next": "15.2.0"
+  }
+}
